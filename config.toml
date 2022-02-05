@@ -1,0 +1,5 @@
+baseURL = "https://obst.win/"
+languageCode = "zh-TW"
+title = "Obstinacy"
+
+theme = "line"
